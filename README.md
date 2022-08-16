@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Project Preview](./src/shortener_url.png)
+![Project Preview](https://snip-url.netlify.app/)
 
 ## Available Scripts
 
